@@ -14,24 +14,31 @@ I specialize in web application development using PHP, Laravel, JavaScript, and 
 
 ## 🚀 Featured Project
 
-### Wyasa SIMRS — Hospital Medical Equipment Management System
+### Wyasa SIMRS
+**Hospital Medical Equipment Management System**
 
-A web-based application designed to support hospital medical equipment management and maintenance workflows.
+A web-based hospital equipment management application developed to support equipment inventory, repair reporting, preventive maintenance, and calibration monitoring.
 
-**Key features:**
-- Medical equipment inventory management.
-- Equipment repair reporting and tracking.
-- Preventive maintenance management.
-- Calibration schedule and expiration monitoring.
-- Asset tracking using QR codes.
-- Notifications for calibration reminders and equipment updates.
-- Responsive web interface and Android WebView integration.
+**My Role: Developer & Application Maintainer**
 
-**Technologies:** PHP, Laravel, JavaScript, MySQL, Bootstrap, AJAX, Firebase Cloud Messaging.
+I contribute to the development and maintenance of Wyasa SIMRS, working on application features, database operations, system workflows, and improvements to the user interface.
 
-**Role:** Developer & Application Maintainer
+**Key Contributions**
+- Developed and maintained equipment inventory and asset management features.
+- Implemented workflows for equipment repair reporting and status tracking.
+- Worked on preventive maintenance and calibration monitoring features.
+- Integrated QR code-based access to equipment information and related workflows.
+- Implemented Firebase Cloud Messaging notifications for calibration reminders and equipment updates.
+- Developed backend functionality using Laravel, PHP, and MySQL, alongside JavaScript, AJAX, and Bootstrap for the user interface.
+- Supported mobile access through a responsive web interface and Android WebView integration.
 
-*The source code is maintained in a private repository. Project details are shared without exposing proprietary code or confidential information.*
+**Tech Stack**
+
+`PHP` · `Laravel` · `JavaScript` · `MySQL` · `Bootstrap` · `jQuery` · `AJAX` · `Firebase Cloud Messaging` · `Android WebView`
+
+**Project Repository:** Private repository
+
+*Project details are shared for portfolio purposes. Proprietary source code and confidential information are not publicly disclosed.*
 
 ## 🧰 Technical Skills
 <p align="left">
