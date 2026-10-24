@@ -89,13 +89,13 @@ I contribute to the development and maintenance of Wyasa SIMRS, working on appli
 ## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/fahillan18899">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=fahillan18899&theme=github-compact&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
-    width="100%"
-  />
-</a>
+  <a href="https://github.com/fahillan18899">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=fahillan18899&show_icons=true&hide_border=true&hide_rank=true"
+      alt="GitHub Stats"
+      height="165"
+    />
+  </a>
   <a href="https://github.com/fahillan18899">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahillan18899&layout=compact&langs_count=6&hide_border=true"
