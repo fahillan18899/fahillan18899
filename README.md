@@ -99,7 +99,6 @@ I contribute to the development and maintenance of Wyasa SIMRS, working on appli
   alt="Top Languages"
   height="165"
 />
-
 </p>
 
 
