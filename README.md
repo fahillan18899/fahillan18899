@@ -96,7 +96,7 @@ I contribute to the development and maintenance of Wyasa SIMRS, working on appli
     />
   <a href="https://github.com/fahillan18899">
     <img
-      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahillan18899&theme=nord_dark&exclude=blade,javascript,php,css,less,html"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language username=fahillan18899&theme=nord_dark&exclude=Blade,Cycript,Less,CSS,HTML"
       alt="Top Languages"
       height="165"
     />
