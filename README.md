@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi, I'm a Web Developer 👋
 
-<!--
-**fahillan18899/fahillan18899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical web applications focused on solving real-world problems through clean, functional, and maintainable code.
 
-Here are some ideas to get you started:
+I specialize in web application development using PHP, Laravel, JavaScript, and MySQL, with experience in database management, application maintenance, and responsive user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💻 Web Developer focused on Laravel and web application development.
+- 🏥 Developer and maintainer of **Wyasa SIMRS**, a hospital medical equipment management system.
+- 🛠️ Experienced in developing application features, maintaining existing systems, and improving user workflows.
+- 🗄️ Interested in database design, backend development, RESTful APIs, and application optimization.
+- 🎓 Associate Degree (D3) in Computer Engineering.
+
+## 🚀 Featured Project
+
+### Wyasa SIMRS — Hospital Medical Equipment Management System
+
+A web-based application designed to support hospital medical equipment management and maintenance workflows.
+
+**Key features:**
+- Medical equipment inventory management.
+- Equipment repair reporting and tracking.
+- Preventive maintenance management.
+- Calibration schedule and expiration monitoring.
+- Asset tracking using QR codes.
+- Notifications for calibration reminders and equipment updates.
+- Responsive web interface and Android WebView integration.
+
+**Technologies:** PHP, Laravel, JavaScript, MySQL, Bootstrap, AJAX, Firebase Cloud Messaging.
+
+**Role:** Developer & Application Maintainer
+
+*The source code is maintained in a private repository. Project details are shared without exposing proprietary code or confidential information.*
+
+## 🧰 Technical Skills
+
+**Backend Development**
+- PHP
+- Laravel
+- RESTful API development
+
+**Frontend Development**
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- jQuery and AJAX
+
+**Database**
+- MySQL
+- Database design and management
+
+**Tools & Integration**
+- Git and GitHub
+- Firebase Cloud Messaging
+- Android WebView
+
+## 🎯 Currently Focused On
+
+- Improving backend development skills.
+- Writing maintainable and reusable code.
+- Building responsive and user-friendly web applications.
+- Learning software development best practices.
+
+## 🎓 Education
+
+**Associate Degree in Computer Engineering (D3)**
+
+Universitas Harkat Negeri, Indonesia
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/prakas-restu-fahillan-2285161b7/
+- Email: fahillan@gmail.com
+
+---
+
+*Thanks for visiting my profile! Feel free to explore my public repositories and projects.*
