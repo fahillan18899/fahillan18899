@@ -78,6 +78,27 @@ A web-based application designed to support hospital medical equipment managemen
 - Firebase Cloud Messaging
 - Android WebView
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/fahillan18899">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=fahillan18899&show_icons=true&hide_border=true&include_all_commits=true"
+      alt="GitHub Stats"
+      height="165"
+    />
+  </a>
+  <a href="https://github.com/fahillan18899">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahillan18899&layout=compact&langs_count=6&hide_border=true"
+      alt="Top Languages"
+      height="165"
+    />
+  </a>
+</p>
+
+
 ## 🎯 Currently Focused On
 
 - Improving backend development skills.
