@@ -90,7 +90,7 @@ I contribute to the development and maintenance of Wyasa SIMRS, working on appli
 
 <p align="center">
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fahillan18899&theme=default"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahillan18899&theme=nord_dark"
       alt="GitHub Repository Statistics"
       height="165"
     />
