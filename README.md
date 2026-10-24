@@ -94,13 +94,11 @@ I contribute to the development and maintenance of Wyasa SIMRS, working on appli
       alt="GitHub Repository Statistics"
       height="165"
     />
-  <a href="https://github.com/fahillan18899">
     <img
       src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language username=fahillan18899&theme=nord_dark&exclude=Blade,Cycript,Less,CSS,HTML"
       alt="Top Languages"
       height="165"
     />
-  </a>
 </p>
 
 
