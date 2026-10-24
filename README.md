@@ -95,7 +95,7 @@ I contribute to the development and maintenance of Wyasa SIMRS, working on appli
       height="165"
     />
     <img
-      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language username=fahillan18899&theme=nord_dark&exclude=Blade,Cycript,Less,CSS,HTML"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahillan18899&layout=compact&langs_count=6&hide_border=true"
       alt="Top Languages"
       height="165"
     />
